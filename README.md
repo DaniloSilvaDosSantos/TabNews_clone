@@ -1,2 +1,2 @@
 # TabNews_clone
-Um clone da plataforma TabNews, feito durante o curso do Felipe Deschamps
+Um clone da plataforma TabNews, feito durante as aulas do curso do Felipe Deschamps

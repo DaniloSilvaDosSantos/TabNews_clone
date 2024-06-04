@@ -1,6 +1,5 @@
-function products()
-{
-    return
+function products() {
+  return;
 }
 
-export default products
+export default products;
